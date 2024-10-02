@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "35efe60a2e491571",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SJK003 - MACHINE LEARNING/P7 -.md"
+                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md"
               }
             }
           },
@@ -189,21 +190,21 @@
   },
   "active": "03191f67f23d1732",
   "lastOpenFiles": [
+    "SJK003 - MACHINE LEARNING/P7 - Regression.md",
+    "_res/_assets/_images/Pasted image 20241002170432.png",
+    "_res/_assets/_images/Pasted image 20241002170410.png",
+    "_res/_assets/_images/Pasted image 20241002170236.png",
+    "_res/_assets/_images/Pasted image 20241002170006.png",
+    "_res/_assets/_images/Pasted image 20241002165915.png",
+    "_res/_assets/_images/Pasted image 20241002165902.png",
+    "_res/_assets/_images/Pasted image 20241002165850.png",
+    "_res/_assets/_images/Pasted image 20241002163858.png",
+    "_res/_assets/_images/Pasted image 20241002163015.png",
+    "_res/_assets/_images/Pasted image 20241002162725.png",
     "SJK003 - MACHINE LEARNING/P6 - SVM.md",
-    "SJK003 - MACHINE LEARNING/P7 -.md",
     "SJK002 - COMPUTER VISION/P5 - Edge detection.md",
-    "_res/_assets/_images/Pasted image 20240930175137.png",
-    "_res/_assets/_images/Pasted image 20240930175006.png",
     "KNBN_Master.md",
-    "_res/_assets/_images/Pasted image 20240930173833.png",
     "SJK002 - COMPUTER VISION/P4 - Image Filtering in Frequency Domain.md",
-    "_res/_assets/_images/Pasted image 20240930173741.png",
-    "_res/_assets/_images/Pasted image 20240930173733.png",
-    "_res/_assets/_images/Pasted image 20240930172916.png",
-    "_res/_assets/_images/Pasted image 20240930171710.png",
-    "_res/_assets/_images/Pasted image 20240930170749.png",
-    "_res/_assets/_images/Pasted image 20240930170221.png",
-    "_res/_assets/_images/Pasted image 20240930162648.png",
     "Untitled.canvas",
     "SJK006 - BIG DATA ANALYTICS/P4 - Large language model prompting.md",
     "_res/_assets/SJK001/Reading Assessments/[Cao19] Robot-Enhanced Therapy.pdf",
@@ -235,7 +236,6 @@
     "Sample presentation.md",
     "M0 - INTRODUCCIÓN AL MÁSTER.md",
     "_res/_knbnNotes/- Pfeifer 07 - Aula Virtual.md",
-    "_res/_knbnNotes.md",
     "MASTER-CANVAS.canvas"
   ]
 }
