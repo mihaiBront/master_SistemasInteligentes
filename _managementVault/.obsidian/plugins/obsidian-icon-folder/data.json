@@ -1,0 +1,68 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiKanban",
+      "LiDatabase",
+      "LiUploadCloud",
+      "LiLightbulb",
+      "LiSparkles"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS": {
+    "iconName": "LiGitGraph",
+    "iconColor": "#89f5cc"
+  },
+  "SJK002 - COMPUTER VISION": {
+    "iconName": "LiFocus",
+    "iconColor": "#cccfff"
+  },
+  "SJK003 - MACHINE LEARNING": {
+    "iconName": "LiSparkles",
+    "iconColor": "#f3ffb8"
+  },
+  "SJK004 - COMPUTATIONAL INTELLIGENCE": {
+    "iconName": "LiLightbulb",
+    "iconColor": "#bdfff2"
+  },
+  "SJK005 - CLOUD COMPUTING": {
+    "iconName": "LiUploadCloud",
+    "iconColor": "#f8c2ff"
+  },
+  "SJK006 - BIG DATA ANALYTICS": {
+    "iconName": "LiDatabase",
+    "iconColor": "#ffe3cc"
+  },
+  "KNBN_Master.md": {
+    "iconName": "LiKanban",
+    "iconColor": "#daa4fe"
+  },
+  "KNBN_Personal.md": {
+    "iconName": "LiKanban",
+    "iconColor": "#95d6fe"
+  }
+}

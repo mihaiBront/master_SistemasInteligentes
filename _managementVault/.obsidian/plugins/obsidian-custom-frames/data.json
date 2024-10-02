@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://calendar.google.com/calendar/embed?src=9ujd358bpbdabp2pimg7qtnqh4uv4o54%40import.calendar.google.com&ctz=Europe%2FMadrid",
+      "displayName": "Calendar",
+      "icon": "calendar",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://aulavirtual.uji.es",
+      "displayName": "Aula",
+      "icon": "home",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 15
+}

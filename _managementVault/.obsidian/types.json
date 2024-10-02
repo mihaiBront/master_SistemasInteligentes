@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "daysOfWeek": "multitext",
+    "startTime": "datetime",
+    "endTime": "datetime",
+    "startRecur": "date",
+    "endRecur": "date",
+    "date": "date"
+  }
+}

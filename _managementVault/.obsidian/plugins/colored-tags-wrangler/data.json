@@ -1,0 +1,370 @@
+{
+  "TagColors": {
+    "ColorPicker": [
+      {
+        "tag_name": "KNBN-Todo",
+        "color": {
+          "r": 211,
+          "g": 225,
+          "b": 253
+        },
+        "background_color": {
+          "r": 27,
+          "g": 87,
+          "b": 208
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "KNBN-InProggress",
+        "color": {
+          "r": 234,
+          "g": 209,
+          "b": 255
+        },
+        "background_color": {
+          "r": 128,
+          "g": 69,
+          "b": 176
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "KNBN-Dropped",
+        "color": {
+          "r": 254,
+          "g": 242,
+          "b": 225
+        },
+        "background_color": {
+          "r": 186,
+          "g": 105,
+          "b": 38
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "KNBN-Done",
+        "color": {
+          "r": 229,
+          "g": 255,
+          "b": 236
+        },
+        "background_color": {
+          "r": 64,
+          "g": 186,
+          "b": 94
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "KNBN-Done-PendingAssessment",
+        "color": {
+          "r": 255,
+          "g": 247,
+          "b": 229
+        },
+        "background_color": {
+          "r": 255,
+          "g": 180,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "KNBN-Investigate",
+        "color": {
+          "r": 255,
+          "g": 240,
+          "b": 250
+        },
+        "background_color": {
+          "r": 246,
+          "g": 117,
+          "b": 255
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "pending",
+        "color": {
+          "r": 255,
+          "g": 0,
+          "b": 200
+        },
+        "background_color": {
+          "r": 255,
+          "g": 214,
+          "b": 246
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "underway",
+        "color": {
+          "r": 0,
+          "g": 238,
+          "b": 255
+        },
+        "background_color": {
+          "r": 224,
+          "g": 253,
+          "b": 255
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "review",
+        "color": {
+          "r": 186,
+          "g": 0,
+          "b": 253
+        },
+        "background_color": {
+          "r": 248,
+          "g": 229,
+          "b": 255
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "complete",
+        "color": {
+          "r": 22,
+          "g": 189,
+          "b": 0
+        },
+        "background_color": {
+          "r": 237,
+          "g": 255,
+          "b": 224
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "ok",
+        "color": {
+          "r": 22,
+          "g": 189,
+          "b": 0
+        },
+        "background_color": {
+          "r": 234,
+          "g": 255,
+          "b": 219
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "done",
+        "color": {
+          "r": 22,
+          "g": 189,
+          "b": 0
+        },
+        "background_color": {
+          "r": 234,
+          "g": 255,
+          "b": 219
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "deprecated",
+        "color": {
+          "r": 161,
+          "g": 161,
+          "b": 161
+        },
+        "background_color": {
+          "r": 242,
+          "g": 242,
+          "b": 242
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK001-Robotics",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 55,
+          "g": 210,
+          "b": 151
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK002-ComputerVIsion",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 76,
+          "g": 84,
+          "b": 194
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK003-MachineLearning",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 213,
+          "g": 200,
+          "b": 52
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK004-ComputationalIntelligence",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 67,
+          "g": 215,
+          "b": 234
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK005-CloudComputing",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 198,
+          "g": 63,
+          "b": 193
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "SJK006-BigDataAnalytics",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 212,
+          "g": 129,
+          "b": 12
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "exam",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 4,
+          "g": 224,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "lab",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 255,
+          "g": 0,
+          "b": 221
+        },
+        "luminance_offset": 0.15
+      }
+    ],
+    "EnableMultipleTags": false,
+    "EnableSeparateBackground": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "NoteTags": true,
+    "NoteProperties": true,
+    "NoteBackgrounds": false,
+    "TagsNoWrap": true,
+    "TagsNoWrapText": "pre"
+  },
+  "FolderNote": {
+    "Enable": false,
+    "FolderTagLinks": [],
+    "EnableAutoDetect": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px"
+    }
+  },
+  "Kanban": {
+    "Enable": true,
+    "EnableCards": true,
+    "EnableLists": true,
+    "HideHashtags": true,
+    "EnableBackgroundOpacity": true,
+    "Values": {
+      "BackgroundOpacity": 0.1,
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3
+    }
+  },
+  "Canvas": {
+    "Enable": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15
+    }
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}

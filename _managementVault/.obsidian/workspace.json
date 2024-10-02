@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "6ca4c40595110496",
+    "type": "split",
+    "children": [
+      {
+        "id": "7642daef1773e369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03191f67f23d1732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d85adb39506bb1b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b279fe2b2e8faccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1786bf7cd1275b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddfddac4e1fc177e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mermaid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "235fb7341223d0ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "35efe60a2e491571",
+    "type": "split",
+    "children": [
+      {
+        "id": "3692cb68f56772da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c1a1a9a97fc909",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dd71c3a7337bf86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27fbb59dce262ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SJK003 - MACHINE LEARNING/P7 -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dae63edc07b4ab9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d6537ad02a1965ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SJK003 - MACHINE LEARNING/P7 -.md"
+              }
+            }
+          },
+          {
+            "id": "99c03de245ad14ad",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "770cb706306a9ebd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e9a9d6db54908d",
+            "type": "leaf",
+            "state": {
+              "type": "ch.der-tobi.obsidian-simple-mention",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 595.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-custom-frames:Open Calendar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "03191f67f23d1732",
+  "lastOpenFiles": [
+    "SJK003 - MACHINE LEARNING/P6 - SVM.md",
+    "SJK003 - MACHINE LEARNING/P7 -.md",
+    "SJK002 - COMPUTER VISION/P5 - Edge detection.md",
+    "_res/_assets/_images/Pasted image 20240930175137.png",
+    "_res/_assets/_images/Pasted image 20240930175006.png",
+    "KNBN_Master.md",
+    "_res/_assets/_images/Pasted image 20240930173833.png",
+    "SJK002 - COMPUTER VISION/P4 - Image Filtering in Frequency Domain.md",
+    "_res/_assets/_images/Pasted image 20240930173741.png",
+    "_res/_assets/_images/Pasted image 20240930173733.png",
+    "_res/_assets/_images/Pasted image 20240930172916.png",
+    "_res/_assets/_images/Pasted image 20240930171710.png",
+    "_res/_assets/_images/Pasted image 20240930170749.png",
+    "_res/_assets/_images/Pasted image 20240930170221.png",
+    "_res/_assets/_images/Pasted image 20240930162648.png",
+    "Untitled.canvas",
+    "SJK006 - BIG DATA ANALYTICS/P4 - Large language model prompting.md",
+    "_res/_assets/SJK001/Reading Assessments/[Cao19] Robot-Enhanced Therapy.pdf",
+    "_res/_assets/SJK001/Reading Assessments/[Cao19] Robot-Enhanced Therapy.pdf.crdownload",
+    "_res/_assets/SJK006/4. Prompt Engineering for Data Science.pdf",
+    "_res/_assets/SJK006/4. Prompt Engineering for Data Science.pdf.crdownload",
+    "SJK006 - BIG DATA ANALYTICS/P3 - Big Data Architectures.md",
+    "SJK005 - CLOUD COMPUTING/P2 - Applications for cloud computing.md",
+    "_res/_templates/SJK006_BigDataAnalytics.md",
+    "_res/_templates/SJK005_CloudComputing.md",
+    "_res/_assets/SJK005/LAB1.pdf.crdownload",
+    "_res/_assets/SJK005/LAB1.pdf",
+    "SJK004 - COMPUTATIONAL INTELLIGENCE/P1 -  Modelling an intelligent system.md",
+    "_res/_assets/SJK004/Unit 1_ Modelling an Intelligent agent_1.pdf",
+    "SJK004 - COMPUTATIONAL INTELLIGENCE/Untitled.md",
+    "SJK004 - COMPUTATIONAL INTELLIGENCE/PO - Introducción.md",
+    "SJK004 - COMPUTATIONAL INTELLIGENCE/Untitled",
+    "_res/_dailyNotes/2024-09-25.md",
+    "SJK003 - MACHINE LEARNING/P5 - Decision Trees.md",
+    "SJK006 - BIG DATA ANALYTICS/P1 - Big Data.md",
+    "SJK003 - MACHINE LEARNING/P4 - Distance-based Classifiers.md",
+    "SJK003 - MACHINE LEARNING/P2 - Evaluación de modelos.md",
+    "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS/P2 - Introduction to Robotic Intelligence.md",
+    "_res/_knbnNotes/Pfeifer07_Notes.md",
+    "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS/_KNBN-Articulos.md",
+    "_res/_assets/SJK001/Introduction to Robotic Intelligence (1) .pdf",
+    "_res/_assets/SJK001/Introduction to Robotic Intelligence (1) .pdf.crdownload",
+    "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS/P1 - Introduction to robotic intelligence. Classical AI & The Hierarchical Paradigm.md",
+    "Sample presentation.md",
+    "M0 - INTRODUCCIÓN AL MÁSTER.md",
+    "_res/_knbnNotes/- Pfeifer 07 - Aula Virtual.md",
+    "_res/_knbnNotes.md",
+    "MASTER-CANVAS.canvas"
+  ]
+}
