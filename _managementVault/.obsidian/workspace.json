@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
+                "file": "SJK004 - COMPUTATIONAL INTELLIGENCE/P1 -  Modelling an intelligent system.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "35efe60a2e491571",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
+                "file": "SJK004 - COMPUTATIONAL INTELLIGENCE/P1 -  Modelling an intelligent system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
+                "file": "SJK004 - COMPUTATIONAL INTELLIGENCE/P1 -  Modelling an intelligent system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md"
+                "file": "SJK004 - COMPUTATIONAL INTELLIGENCE/P1 -  Modelling an intelligent system.md"
               }
             }
           },
@@ -189,8 +190,10 @@
   },
   "active": "03191f67f23d1732",
   "lastOpenFiles": [
-    "SJK006 - BIG DATA ANALYTICS/P6 - TimeSeries Analysis.md",
+    "SJK005 - CLOUD COMPUTING/P2 - Applications for cloud computing.md",
+    "SJK005 - CLOUD COMPUTING/REST Cheatsheet.md",
     "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
+    "SJK006 - BIG DATA ANALYTICS/P6 - TimeSeries Analysis.md",
     "_res/_assets/_images/Pasted image 20241002183517.png",
     "_res/_assets/_images/Pasted image 20241002183503.png",
     "_res/_assets/_images/Pasted image 20241002182107.png",
@@ -214,7 +217,6 @@
     "_res/_assets/SJK006/4. Prompt Engineering for Data Science.pdf",
     "_res/_assets/SJK006/4. Prompt Engineering for Data Science.pdf.crdownload",
     "SJK006 - BIG DATA ANALYTICS/P3 - Big Data Architectures.md",
-    "SJK005 - CLOUD COMPUTING/P2 - Applications for cloud computing.md",
     "_res/_templates/SJK006_BigDataAnalytics.md",
     "_res/_templates/SJK005_CloudComputing.md",
     "_res/_assets/SJK005/LAB1.pdf.crdownload",
@@ -235,7 +237,6 @@
     "_res/_assets/SJK001/Introduction to Robotic Intelligence (1) .pdf",
     "_res/_assets/SJK001/Introduction to Robotic Intelligence (1) .pdf.crdownload",
     "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS/P1 - Introduction to robotic intelligence. Classical AI & The Hierarchical Paradigm.md",
-    "Sample presentation.md",
     "MASTER-CANVAS.canvas"
   ]
 }

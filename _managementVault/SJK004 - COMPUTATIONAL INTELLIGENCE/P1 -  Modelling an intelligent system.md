@@ -163,3 +163,6 @@ $$
 ![[Pasted image 20240926155008.png]]
 ![[Pasted image 20240926154942.png]]
 ![[Pasted image 20240926154951.png]]
+
+# 6 Environment discovery (real life)
+
