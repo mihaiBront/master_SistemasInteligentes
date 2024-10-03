@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "35efe60a2e491571",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
+                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md"
+                "file": "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md"
               }
             }
           },
@@ -190,17 +189,20 @@
   },
   "active": "03191f67f23d1732",
   "lastOpenFiles": [
+    "SJK006 - BIG DATA ANALYTICS/P6 - TimeSeries Analysis.md",
+    "SJK006 - BIG DATA ANALYTICS/L3 - MDX prompts.md",
+    "_res/_assets/_images/Pasted image 20241002183517.png",
+    "_res/_assets/_images/Pasted image 20241002183503.png",
+    "_res/_assets/_images/Pasted image 20241002182107.png",
+    "_res/_assets/_images/Pasted image 20241002181420.png",
+    "_res/_assets/_images/Pasted image 20241002181354.png",
+    "_res/_assets/_images/Pasted image 20241002181235.png",
     "SJK003 - MACHINE LEARNING/P7 - Regression.md",
+    "SJK006 - BIG DATA ANALYTICS/P5 - Descriptive Analysis.md",
     "_res/_assets/_images/Pasted image 20241002170432.png",
     "_res/_assets/_images/Pasted image 20241002170410.png",
     "_res/_assets/_images/Pasted image 20241002170236.png",
     "_res/_assets/_images/Pasted image 20241002170006.png",
-    "_res/_assets/_images/Pasted image 20241002165915.png",
-    "_res/_assets/_images/Pasted image 20241002165902.png",
-    "_res/_assets/_images/Pasted image 20241002165850.png",
-    "_res/_assets/_images/Pasted image 20241002163858.png",
-    "_res/_assets/_images/Pasted image 20241002163015.png",
-    "_res/_assets/_images/Pasted image 20241002162725.png",
     "SJK003 - MACHINE LEARNING/P6 - SVM.md",
     "SJK002 - COMPUTER VISION/P5 - Edge detection.md",
     "KNBN_Master.md",
@@ -234,8 +236,6 @@
     "_res/_assets/SJK001/Introduction to Robotic Intelligence (1) .pdf.crdownload",
     "SJK001 - CYBER-PHYSICAL AND ROBOTIC INTELLIGENT SYSTEMS/P1 - Introduction to robotic intelligence. Classical AI & The Hierarchical Paradigm.md",
     "Sample presentation.md",
-    "M0 - INTRODUCCIÓN AL MÁSTER.md",
-    "_res/_knbnNotes/- Pfeifer 07 - Aula Virtual.md",
     "MASTER-CANVAS.canvas"
   ]
 }
