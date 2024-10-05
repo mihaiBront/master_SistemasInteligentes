@@ -1,5 +1,0 @@
----
-Presenter: 
-date: 
-tags:
----
