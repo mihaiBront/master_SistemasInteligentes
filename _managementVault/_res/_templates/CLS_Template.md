@@ -1,6 +1,0 @@
----
-Subject: 
-Teacher: 
-date: 
-tags:
----
